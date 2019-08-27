@@ -1,0 +1,24 @@
+{
+  "name": "test-datasource-grafana",
+  "version": "1.0.0",
+  "description": "grafana react datasource test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config jest.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinhlavacek/test-datasource-grafana.git"
+  },
+  "keywords": [
+    "grafana",
+    "datasource",
+    "react"
+  ],
+  "author": "Martin Hlavacek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinhlavacek/test-datasource-grafana/issues"
+  },
+  "homepage": "https://github.com/martinhlavacek/test-datasource-grafana#readme"
+}
